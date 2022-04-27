@@ -24,10 +24,10 @@ panorama_6DEA2D52_66B5_BA3E_41D4_8022B8CE5835.label = Banheiro 2 andar
 panorama_6DE98752_66B5_963E_41D4_8DF7967EDF84.label = Butanta Drone
 panorama_6DD4F3EA_66B5_6DEE_41D8_7D4BEEEEAD4E.label = Fachada
 panorama_6DEB27CC_66B6_B62A_41D7_236BE19A977B.label = Lado Direito
-panorama_6DEA606F_66B5_6AE7_41D1_36AC8AEFC1A1.label = Lado Direito 2
+panorama_4B713F2C_6B52_8E90_41C6_FCFCA6523C17.label = Lado Direito 2
 panorama_6DEA8C43_66B6_9A1E_41C4_44D8E499F20C.label = Lado Direito 3
 panorama_6DEA2363_66B6_AE1E_41D1_F683BFB0DB66.label = Lado Esquerdo 1
-panorama_6DEA9FA7_66B6_9666_41D5_51DF65E1ABC1.label = Lado Esquerdo 2
+panorama_4AA35401_6B55_7290_41D2_EB61B0C35F23.label = Lado Esquerdo 2
 panorama_6DEA9C2D_66B6_FA6B_41B0_24D53AD80040.label = Lado Esquerdo 3
 
 ## Skin
