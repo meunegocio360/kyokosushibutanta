@@ -37,9 +37,9 @@
   }
  ],
  "name": "Kyoko Sushi Butantã - Tour Virtual 360°",
- "theme_color": "#FF0000",
- "display": "fullscreen",
  "description": "Av. Comendador Alberto Bonfiglioli, 332 - Jardim Bonfiglioli, São Paulo",
- "start_url": "index.htm",
- "background_color": "#FF0000"
+ "display": "fullscreen",
+ "background_color": "#FF0000",
+ "theme_color": "#FF0000",
+ "start_url": "index.htm"
 }
